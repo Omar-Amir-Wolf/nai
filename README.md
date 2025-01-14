@@ -1,2 +1,2 @@
-# nai
+# Nai
 AI Agent
